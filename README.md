@@ -8,3 +8,7 @@ by hiding it with css :P
 
 Does not seem to workk in gitpod or other sandboxes but works fine on localhost and other legit servers.
 
+I made this quick to show it works:
+
+https://youtu.be/0x9CF94wSyc
+
